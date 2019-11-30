@@ -22,3 +22,34 @@ Go to Settings > Update & Security > For developers > click Sideload apps and cl
 Wait 1 min to give time to install the UWP application properly.
 
 - Restart ur PC and Enjoy Dolby Audio Effects.
+
+
+<img src="https://i.imgur.com/h5KfgEv.png" width="960" height="450">
+<img src="https://i.imgur.com/JJ5Ae94.png" width="960" height="450">
+<img src="https://i.imgur.com/SYoYuXc.png" width="960" height="700">
+<img src="https://i.imgur.com/uJ1jZSc.png">
+<img src="https://i.imgur.com/1pJ4zjl.png">
+<img src="https://i.imgur.com/sdMO7jZ.png" width="960" height="700">
+
+
+## FAQ:
+
+- Which Windows version is compatible ?
+
+Windows 10 64bit RS5 1809 to latest whatever version.
+
+- Why no 32bit support ?
+
+ƒuck 32bit.
+
+- Which realtek audio chips are supported with this mod ?
+
+Almost every audio chip they made.
+
+- Any plan to add multiple APO in future ?
+
+No, I like things simple and lightweight.
+
+- Any update schedule for driver ?
+
+At least once in every month.
